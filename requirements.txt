@@ -1,0 +1,5 @@
+django
+markdown
+pygments
+requests
+transliterate
